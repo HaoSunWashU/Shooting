@@ -80,7 +80,6 @@
      <Compile Include="Assets\Shared Assets\PostProcessing\Editor\PropertyDrawers\GetSetDrawer.cs" />
      <Compile Include="Assets\Shared Assets\PostProcessing\Editor\PropertyDrawers\MinDrawer.cs" />
      <Compile Include="Assets\Shared Assets\PostProcessing\Editor\PropertyDrawers\TrackballGroupDrawer.cs" />
-     <Compile Include="Assets\Shared Assets\PostProcessing\Editor\Utils\CurveEditor.cs" />
      <Compile Include="Assets\Shared Assets\PostProcessing\Editor\Utils\EditorGUIHelper.cs" />
      <Compile Include="Assets\Shared Assets\PostProcessing\Editor\Utils\EditorResources.cs" />
      <Compile Include="Assets\Shared Assets\PostProcessing\Editor\Utils\FxStyles.cs" />

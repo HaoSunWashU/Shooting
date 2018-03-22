@@ -12,6 +12,8 @@ public class HealthController : MonoBehaviour {
 		health -= damage;
 
 		if (health <= 0) {
+			ParticleSystem particle = Instantiate (damageFire, gameObject.transform.position, Quaternion.Euler(-90,0,0));
+			particle.Play ();
 			Destroy (gameObject);
 
 		}
